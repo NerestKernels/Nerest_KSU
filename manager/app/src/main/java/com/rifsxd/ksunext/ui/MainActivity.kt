@@ -1,4 +1,4 @@
-package com.rifsxd.ksunext.ui
+package com.thefloresto.jksu.ui
 
 import android.content.Intent
 import android.net.Uri
