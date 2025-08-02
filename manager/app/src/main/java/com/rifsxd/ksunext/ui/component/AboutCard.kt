@@ -1,4 +1,4 @@
-package com.rifsxd.ksunext.ui.component
+package com.thefloresto.jksu.ui.component
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
@@ -32,8 +32,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
 import androidx.compose.ui.text.font.FontWeight
-import com.rifsxd.ksunext.BuildConfig
-import com.rifsxd.ksunext.R
+import com.thefloresto.jksu.BuildConfig
+import com.thefloresto.jksu.R
 
 @Preview
 @Composable
@@ -100,7 +100,7 @@ private fun AboutCardContent() {
                 val annotatedString = AnnotatedString.Companion.fromHtml(
                     htmlString = stringResource(
                         id = R.string.about_source_code,
-                        "<b><a href=\"https://github.com/KernelSU-Next/KernelSU-Next\">GitHub</a></b>"
+                        "<b><a href=\"https://github.com/NerestKernels/Nerest_KSU\">GitHub</a></b>"
                     ),
                     linkStyles = TextLinkStyles(
                         style = SpanStyle(
