@@ -1,11 +1,11 @@
-name: Build LKM for KernelSU-Next
+name: Build LKM for Nerest_KSU
 on:
   push:
-    branches: [ "next" ]
+    branches: [ "nerest" ]
     paths:
       - ".github/workflows/build-lkm.yml"
   pull_request:
-    branches: [ "next" ]
+    branches: [ "nerest" ]
     paths:
       - ".github/workflows/build-lkm.yml"
   workflow_call:
