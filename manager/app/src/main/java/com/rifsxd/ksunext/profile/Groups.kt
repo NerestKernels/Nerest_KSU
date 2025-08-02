@@ -1,4 +1,4 @@
-package com.rifsxd.ksunext.profile
+package com.thefloresto.jksu.profile
 
 /**
  * https://cs.android.com/android/platform/superproject/main/+/main:system/core/libcutils/include/private/android_filesystem_config.h
