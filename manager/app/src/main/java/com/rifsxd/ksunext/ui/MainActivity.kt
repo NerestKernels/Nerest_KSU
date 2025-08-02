@@ -52,19 +52,19 @@ import com.ramcosta.composedestinations.generated.destinations.FlashScreenDestin
 import com.ramcosta.composedestinations.generated.NavGraphs
 import com.ramcosta.composedestinations.utils.isRouteOnBackStackAsState
 import com.ramcosta.composedestinations.utils.rememberDestinationsNavigator
-import com.rifsxd.ksunext.Natives
-import com.rifsxd.ksunext.ksuApp
-import com.rifsxd.ksunext.ui.screen.BottomBarDestination
-import com.rifsxd.ksunext.ui.theme.KernelSUTheme
-import com.rifsxd.ksunext.ui.util.*
-import com.rifsxd.ksunext.ui.util.LocalSnackbarHost
-import com.rifsxd.ksunext.ui.util.LocaleHelper
-import com.rifsxd.ksunext.ui.util.rootAvailable
-import com.rifsxd.ksunext.ui.util.install
-import com.rifsxd.ksunext.ui.util.isSuCompatDisabled
-import com.rifsxd.ksunext.ui.screen.FlashIt
-import com.rifsxd.ksunext.ui.viewmodel.ModuleViewModel
-import com.rifsxd.ksunext.ui.viewmodel.SuperUserViewModel
+import com.thefloresto.jksu.Natives
+import com.thefloresto.jksu.ksuApp
+import com.thefloresto.jksu.ui.screen.BottomBarDestination
+import com.thefloresto.jksu.ui.theme.KernelSUTheme
+import com.thefloresto.jksu.ui.util.*
+import com.thefloresto.jksu.ui.util.LocalSnackbarHost
+import com.thefloresto.jksu.ui.util.LocaleHelper
+import com.thefloresto.jksu.ui.util.rootAvailable
+import com.thefloresto.jksu.ui.util.install
+import com.thefloresto.jksu.ui.util.isSuCompatDisabled
+import com.thefloresto.jksu.ui.screen.FlashIt
+import com.thefloresto.jksu.ui.viewmodel.ModuleViewModel
+import com.thefloresto.jksu.ui.viewmodel.SuperUserViewModel
 
 class MainActivity : ComponentActivity() {
 
