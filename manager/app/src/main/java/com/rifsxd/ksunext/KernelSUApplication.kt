@@ -1,4 +1,4 @@
-package com.rifsxd.ksunext
+package com.thefloresto.jksu
 
 import android.app.Application
 import android.system.Os
